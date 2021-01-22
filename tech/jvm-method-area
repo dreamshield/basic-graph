@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-01-22T07:24:36.717Z" agent="5.0 (Macintosh; Intel Mac OS X 11_1_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.141 Safari/537.36" etag="O03D5HXLWmyske10dA-8" version="14.2.6" type="github">
+<mxfile host="app.diagrams.net" modified="2021-01-22T07:25:03.182Z" agent="5.0 (Macintosh; Intel Mac OS X 11_1_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.141 Safari/537.36" etag="KV3uuFmVjJH1Oqk-RvnU" version="14.2.6" type="github">
   <diagram id="luSyGTqVEzwaNVueOwK3" name="Page-1">
     <mxGraphModel dx="506" dy="337" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -7,7 +7,7 @@
         <mxCell id="6qx4_EeBis24WXJY81CI-7" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="180" y="140" width="230" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="6qx4_EeBis24WXJY81CI-1" value="JVM-Method-Area" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="6qx4_EeBis24WXJY81CI-1" value="JVM-Method-Area&lt;br&gt;(方法区)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="320" y="80" width="160" height="40" as="geometry" />
         </mxCell>
         <mxCell id="6qx4_EeBis24WXJY81CI-4" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="6qx4_EeBis24WXJY81CI-2" target="6qx4_EeBis24WXJY81CI-1">
